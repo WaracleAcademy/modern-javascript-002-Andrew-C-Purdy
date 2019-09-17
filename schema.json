@@ -1,0 +1,31 @@
+{
+  "results": [
+{
+  "id": 1,
+  "series": "Star Wars",
+  "title": "Star Wars: Episode IV – A New Hope",
+  "characters": [
+    "Yoda",
+    "Luke Skywalker"
+  ]
+  },
+{
+  "id": 2,
+  "series": "Star Wars",
+  "title": "Star Wars: Episode V – The Empire Strikes Back",
+  "characters": [
+    "Princess Leia",
+    "Hans Solo"
+  ]
+  },
+{
+  "id": 3,
+  "series": "Star Wars",
+  "title": "Star Wars: Episode VI – Return of the Jedi",
+  "characters": [
+    "Jabba the Hutt",
+    "Lando Calrissian"
+  ]
+  }
+]
+}
