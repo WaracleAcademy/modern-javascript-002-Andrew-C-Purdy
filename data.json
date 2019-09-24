@@ -4,6 +4,7 @@
   "id": 1,
   "series": "Star Wars",
   "title": "Star Wars: Episode IV – A New Hope",
+  "released": "27 December 1977",
   "characters": [
     "Yoda",
     "Luke Skywalker"
@@ -13,6 +14,7 @@
   "id": 2,
   "series": "Star Wars",
   "title": "Star Wars: Episode V – The Empire Strikes Back",
+  "released": "20 May 1980",
   "characters": [
     "Princess Leia",
     "Hans Solo"
@@ -22,6 +24,7 @@
   "id": 3,
   "series": "Star Wars",
   "title": "Star Wars: Episode VI – Return of the Jedi",
+  "released": "2 June 1983",
   "characters": [
     "Jabba the Hutt",
     "Lando Calrissian"
