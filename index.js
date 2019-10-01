@@ -1,3 +1,11 @@
+	const appDiv = document.getElementById('app');
+
+	var title = 'Overview of the Star Wars franchise.';
+	var film_1 = 'Star Wars: Episode IV – A New Hope';
+	var featuring_1 = 'Featuring Yoda & Luke Skywalker';
+	var film_2 = 'Star Wars: Episode V – The Empire Strikes Back';
+	var featuring_2 = 'Featuring Darth Vador';
+	
 	console.log(title);
 
     appDiv.innerHTML = 
