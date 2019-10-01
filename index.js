@@ -1,3 +1,5 @@
+	import { render } from './renderer';
+	
 	const appDiv = document.getElementById('app');
 
 	var title = 'Overview of the Star Wars franchise.';
@@ -22,3 +24,17 @@
 
     header2.innerText = title;
     article.appendChild(header2);
+    
+    const anObject = {
+    	property: 'string',
+    	second: 'also a string',
+    	third: true,
+    	};
+    	
+    const { first: property, second } = anObject;
+    
+    console.log(property); // 'a string'
+    console.log(second); // 'also a string'
+    console.log(first); // 'a string'
+    
+    
